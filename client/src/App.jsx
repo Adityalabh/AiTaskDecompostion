@@ -33,7 +33,7 @@ axios.defaults.withCredentials = true;
           onSubmit={handleSubmit}
           className="bg-white p-6 rounded-lg shadow-md"
         >
-          <h1 className="text-2xl font-bold mb-4">Task Decomposition System</h1>
+          <h1 className="text-2xl font-bold mb-4">Task Decomposition:</h1>
 
           <div className="mb-4">
             <label className="block text-sm font-medium mb-2">
