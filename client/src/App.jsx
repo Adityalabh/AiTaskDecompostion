@@ -37,7 +37,7 @@ axios.defaults.withCredentials = true;
 
           <div className="mb-4">
             <label className="block text-sm font-medium mb-2">
-              Enter main task:
+              Enter your task:
             </label>
             <textarea
               value={mainTask}
